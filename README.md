@@ -1,2 +1,3 @@
-# room-reservation-
-It is a console project title-(room reservation)
+# Room Reservation System (Console Based)
+
+A console-based application to manage room bookings, availability, and customer details.
